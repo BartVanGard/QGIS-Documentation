@@ -222,7 +222,7 @@ Remember that each new feature needs to have a unique :kbd:`id` value!
 -------------------------------------------------------------------------------
 
 * Create a new line feature called :kbd:`routes.shp` with attributes :kbd:`id`
-  and :kbd:`type`. (Use the approach above to guide you.)
+  and :kbd:`type`. (Use the approach above to guide you. Remember to choose 'Line' as the vector type.)
 * We're going to digitize two routes which are not already marked on the roads
   layer; one is a path, the other is a track.
 
